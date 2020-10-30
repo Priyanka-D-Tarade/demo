@@ -1,0 +1,1 @@
+print"I want to best in the world"
